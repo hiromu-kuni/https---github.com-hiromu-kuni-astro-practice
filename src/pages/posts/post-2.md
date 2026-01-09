@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: '2つめのブログ記事'
 pubDate: 2026-01-09
 description: '2本目のブログです！'
@@ -8,9 +9,6 @@ image:
     alt: 'Astroのロゴ。'
 tags: ["astro", "ブログ", "公開学習"]
 ---
-
-投稿日: 2026-01-09
-
 ブログを書く練習です．少し難しいですが、Astro自体はなかなかうまくできています、！
 ## 達成したこと
 
